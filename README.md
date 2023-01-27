@@ -1,4 +1,4 @@
-# Hard-Nettt
+# Hard-Nett
 
 Discover Decentralization :)
 
