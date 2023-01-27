@@ -6,4 +6,3 @@ Discover Decentralization :)
 - email: hardnettt@proton.me
 - website: TBD
 
-# hard-nettt
