@@ -5,7 +5,7 @@
 ## Contact Information 
 - email: [`loaf0bred@proton.me`](mailto:loaf0bred@proton.me?)
 - discord: `@returniflost`
-- twitter: `@load0bred`
+- twitter: `@loaf0bred`
 - website: TBD
 
 ## Donate To Support Me In My Open Source Contribution Journey <3
