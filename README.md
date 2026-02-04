@@ -6,7 +6,7 @@
 - email: [`loaf0bred@proton.me`](mailto:loaf0bred@proton.me?)
 - discord: `@returniflost`
 - twitter: `@loaf0bred`
-- website: TBD
+- website: [permissionless.money](https://permissionless.money)
 
 ## Donate To Support Me In My Open Source Contribution Journey <3
 - ETH: `0x254768d47cf8958a68242ce5aa1adb401e1fef2b`
